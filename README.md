@@ -13,4 +13,4 @@ From soft and pleasant animations to complex gradients
 Perfectly placed media queries for satisfactory responsiveness covering almost devices
 And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
 
-![](project_update/68747470733a2f2f692e6962622e636f2f356a78424b70772f696d6167652e706e67.png)
+![](project_update/68747470733a2f2f692e6962622e636f2f356a78424b70772f696d6167652e706e67.png)![](project_update/image1.png)![](project_update/image2.png)![](project_update/image3.png)![](project_update/image4.png)
